@@ -1,0 +1,11 @@
+{
+  "block_size": 16,
+  "num_domains": 4,
+  "head_bind_group": 1,
+  "pi_k": "token_major",
+  "pi_v": "token_major",
+  "tau": "domain_grouped",
+  "max_head_blocks_per_domain": 100000,
+  "pim_base_address": 4294967296,
+  "domain_stride_bytes": 4398046511104
+}
